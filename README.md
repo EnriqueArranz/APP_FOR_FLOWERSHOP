@@ -1,5 +1,6 @@
 
 README - Florist Shop Backend Java App
+
 The application meets specific requirements related to managing products, stock, sales, and generating purchase tickets.
 
 Program Description
