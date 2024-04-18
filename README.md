@@ -1,6 +1,6 @@
 
 README - Florist Shop Backend Java App
-This README provides a brief overview of the Java backend application for a florist shop. The application meets specific requirements related to managing products, stock, sales, and generating purchase tickets.
+The application meets specific requirements related to managing products, stock, sales, and generating purchase tickets.
 
 Program Description
 
